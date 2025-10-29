@@ -31,14 +31,14 @@ It helps transport companies reduce human errors, improve conversion rates, and 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Programming Language:** java
 - **Database:** MySQL 
 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Bus-Reservation-System/
 │── src/ # Source code
 │── database/ # Database scripts and schema
