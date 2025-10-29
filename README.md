@@ -16,7 +16,7 @@ It helps transport companies reduce human errors, improve conversion rates, and 
 
 ## 👤 Features
 
-### 1. Customer Features
+###  Customer Features
 - **Customer Registration:** Name, Mobile Number, Email ID, City, Age.  
 - **Search Buses:** Find buses based on starting point, ending point, and travel date.  
 - **Reserve Seat:** Book a seat and receive a notification confirmation.  
