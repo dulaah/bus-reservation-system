@@ -14,7 +14,7 @@ It helps transport companies reduce human errors, improve conversion rates, and 
 
 ---
 
-## 👤 Features
+## Features
 
 ###  Customer Features
 - **Customer Registration:** Name, Mobile Number, Email ID, City, Age.  
